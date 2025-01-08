@@ -14,7 +14,7 @@ const Signup = () => {
       method: "post",
     });
 
-    // console.log(data);
+    console.log(data);
   };
   return (
     <>
